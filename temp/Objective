@@ -1,0 +1,18 @@
+Zomato Customer Retention Analysis
+
+
+Objective:
+Use Python to predict customer churn and
+suggest offers to retain them.
+
+Dataset:
+
+Use Zomato or food delivery dataset (CustomerID,OrderFrequency, LastOrder, Rating, Complaints).
+Steps:
+Use Pandas to clean & transform
+Feature engineering: Avg Order Gap, Order
+Rating
+Build Logistic Regression model to predict
+churn
+
+Recommend actions for high-risk users
